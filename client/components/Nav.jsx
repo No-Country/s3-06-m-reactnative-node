@@ -40,17 +40,16 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   footer: {
-    height: 80,
+    height: 70,
     position: 'absolute',
     left: 0,
     right: 0,
     bottom: 0,
-    backgroundColor: '#8BC34A'
   },
   contentContainer: {
     flexDirection: "row",
     width:width,
-    height: 80,
+    height: 70,
     justifyContent:'center',
     alignItems: "center",
     backgroundColor:'#fff',

@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     paddingVertical: 10,
-    width: "100%",
+    width: "100%"
   },
   image: {
     width: 24,

@@ -15,7 +15,7 @@ import Homepage from "./pages/homepage";
 import Search from "./components/Search.jsx";
 
 import ClaudiaPage from "./devpages/ClaudiaPage.jsx";
-import CrisPage from "./devpages/CrisPage.jsx";
+import {CrisPage} from "./devpages/CrisPage.jsx";
 import EzePage from "./devpages/EzePage.jsx";
 import OrianaPage from "./devpages/OrianaPage.jsx";
 import RichardPage from "./devpages/RichardPage.jsx";
@@ -27,7 +27,7 @@ const ScreenHeight = Dimensions.get("window").height;
 export const Main = () => {
   return (
     <View style={styles.container}>
-      <Search />
+{/*       <Search /> */}
         <StatusBar style="auto" />
           <Routes>
             <Route path="/" element={<Homepage />}></Route>
