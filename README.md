@@ -10,6 +10,7 @@
 - [IOS] - [Descargar Simulacion de la aplicación para IOS](https://expo.dev/artifacts/eas/vWoZF554Wn2bqg7KgjRKSD.tar.gz) 
 - [API] - [Api deployada en Heroku](https://api-s306.herokuapp.com/)
 
+## Video de la app funcionando: <a href="https://www.linkedin.com/posts/richardirala_react-reactnative-javascript-activity-6972209812470136832-_uv-?utm_source=share&utm_medium=member_desktop">Click Aquí</a>
 
 ## Grupo:  s3-06-m-reactnative-node
 
